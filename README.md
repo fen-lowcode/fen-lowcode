@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 🔭 Currently Working On
 - Reverse engineering workflows  
-- Low-level system tools  
+- Low-level system tools 
 - C++ utilities and performance tooling
 
 ---
@@ -28,26 +28,26 @@ Here are some ideas to get you started:
 ### 🌱 Currently Learning
 - Assembly language internals  
 - Binary exploitation techniques  
-- Advanced C++ concurrency and multithreading
+- Shellcoding
 
 ---
 
 ### 🤝 Open to Collaborate On
 - Binary analysis frameworks  
-- Open-source security utilities  
-- Freelance system-level programming projects
+- Open-source security utilities
+- Malware Development
 
 ---
 
 ### 💡 Let’s Work Together On
-- Cross-platform low-level debugging strategies  
+- Cross-platform low-level debugging strategies 
 - Performance optimization in modern C++ codebases
 
 ---
 
 ### 💬 Ask Me About
-- Reverse engineering and disassembly techniques  
-- Hand-crafted assembly and inline ASM in C++
+- Hand-crafted assembly and inline ASM in C / C++
+- Binary Exploitation
 
 ---
 
