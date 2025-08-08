@@ -53,5 +53,3 @@ Here are some ideas to get you started:
 
 ### ⚡ Fun Fact
 I prefer milk over coffee… but guess what I’m drinking right now? ☕
-
----
