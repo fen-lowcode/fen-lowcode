@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - Assembly language internals  
 - Binary exploitation techniques  
 - Shellcoding
+- Computer Networking
 
 ---
 
