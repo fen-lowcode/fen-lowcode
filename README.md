@@ -1,7 +1,7 @@
 
 ![](introductory.png)
 
-## Zyphor OS head security and Package Maintaner
+## Zyphor OS Current Head Security and Package Maintaner
 - `https://github.com/zyphor-os/zyphor-os-desktop`
 - `https://zyphor-os.vercel.app/`
 
