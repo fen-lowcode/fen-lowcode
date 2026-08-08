@@ -1,5 +1,5 @@
 
-![](introductory.mp4)
+![](long_introductory.gif)
 
 I got some nasty secret where i write malwares sometimes as a hobby, ofcourse it's for educational purposes.
 
