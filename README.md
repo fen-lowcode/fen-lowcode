@@ -1,6 +1,8 @@
 
 ![](introductory.png)
 
+I got some nasty secret where i write malwares sometimes as a hobby, ofcourse it's for educational purposes.
+
 ## Zyphor OS Current Head Security and Package Maintaner
 - `https://github.com/zyphor-os/zyphor-os-desktop`
 - `https://zyphor-os.vercel.app/`
