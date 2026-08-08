@@ -1,6 +1,9 @@
 
 ![](introductory.png)
 
+## Zyphor OS head security and Package Maintaner
+- `https://github.com/zyphor-os/zyphor-os-desktop`
+- `https://zyphor-os.vercel.app/`
 
 ### 🌱 Currently Learning
 - Assembly language internals  
