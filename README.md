@@ -1,4 +1,4 @@
-## Zyphor OS Current Head Security and Package Maintaner
+# Zyphor OS Current Head Security
 - `https://github.com/zyphor-os/zyphor-os-desktop`
 - `https://zyphor-os.vercel.app/`
 
