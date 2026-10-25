@@ -1,24 +1,3 @@
-# Zyphor OS Current Head Security
-- `https://github.com/zyphor-os/zyphor-os-desktop`
-- `https://zyphor-os.vercel.app/`
 
-### 🌱 Currently Learning
-- Assembly language internals  
-- Binary exploitation techniques  
-- Shellcoding
-- Computer Networking
-- Windows Internals
----
-
-### Open to Collaborate On
-- Binary analysis frameworks  
-- Open-source security utilities
-- Malware Development
-
-
-
-### Ask Me About
-- Hand-crafted assembly and inline ASM in C / C++
-- Binary Exploitation
-
----
+🌱 I like low level stuff, have you tried some C?
+- Zyphor OS Security Tester
